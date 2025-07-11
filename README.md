@@ -23,6 +23,21 @@ I tried again but this time I could stop the reload in time and see this id thin
 
 <img width="817" height="149" alt="Image" src="https://github.com/user-attachments/assets/d448a128-8167-4f64-84e9-a16ed93efcbb" />
 
-It was so suspicious so I decide to click it but it 'redirect' to the secound page and I could notice that the url change.
+It was so suspicious so I decide to click it but it 'redirect' to the secound page and I could notice that the url change for two times.
 
-So I copy the id and check on cyberchef
+So I copy the id and check on cyberchef.
+
+<img width="234" height="255" alt="Image" src="https://github.com/user-attachments/assets/f6245ca7-3e81-451f-9119-d763ee223716" />
+
+second part of the flag? then when the url change for two times it's mean there's two part on the same link for sure.
+
+then I click on the same link but I click the stop loading button to stop it from redirecting. (I tried so much lol)
+and like I thought, another id but a diffrent code.
+
+<img width="402" height="66" alt="Image" src="https://github.com/user-attachments/assets/557e2c0a-dab9-4e2f-bbdb-8d7d1b984ae5" />
+
+and put it on cyberchef.
+
+<img width="231" height="265" alt="Image" src="https://github.com/user-attachments/assets/765f7ec3-8a2a-4484-a06a-538042cf3b01" />
+
+connect both of them and you got it.
